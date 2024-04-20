@@ -13,3 +13,8 @@ This template is for a 4 knob, 1 footswitch and a 5mm LED indicator.
 
 ## EDA
 Designed in DipTrace
+
+## License
+
+Released under the Creative Commons Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
