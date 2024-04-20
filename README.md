@@ -3,7 +3,7 @@
 
 
 ## 4knob_pcb_pedal_front_1590B
-This template is for a 4 knob, 1 footswitch and a 5mm LED indicator.
+This template is for a 4 knob, 1 footswitch and a 20mm LED indicator.
 
 
 ![4knob](/doc/4knob.JPG)
